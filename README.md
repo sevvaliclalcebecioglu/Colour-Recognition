@@ -1,5 +1,7 @@
 # Colour Recognition App (Python + Streamlit)
 
+https://huggingface.co/spaces/sevvaliclal/ColourRecognitionApp
+
 _This project is a simple Colour Recognition application built with Python and Streamlit. The goal is to detect the colour of any pixel in an image and display its RGB values along with the closest colour name from a CSV dataset._
 
 ## Features
